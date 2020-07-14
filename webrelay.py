@@ -3,7 +3,6 @@ import hashlib
 
 from errbot import BotPlugin, webhook, ValidationException
 from flask import abort
-import requests
 
 
 class WebRelay(BotPlugin):
