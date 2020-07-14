@@ -1,0 +1,11 @@
+[Core]
+name = WebRelay
+module = webrelay
+
+[Documentation]
+description = relays generic web POST messages
+
+[Python]
+version = 3
+
+[Errbot]
